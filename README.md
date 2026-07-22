@@ -70,3 +70,12 @@ Publication-ready Figures
 This repository is currently being organized for public release.
 
 Code documentation and examples will be added progressively.
+## Repository Structure
+
+```
+src/            Source code
+notebooks/      Jupyter notebooks
+figures/        Figures and visualizations
+docs/           Documentation
+data/example/   Example files
+```
